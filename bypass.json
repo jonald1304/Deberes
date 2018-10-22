@@ -1,0 +1,51 @@
+[
+      {
+         "mes":"ENE_2018",
+         "Bypass_Movistar":11279,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"FEB_2018",
+         "Bypass_Movistar":6603,	
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"MAR_2018",
+         "Bypass_Movistar":8344,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"ABR_2018",
+         "Bypass_Movistar":8560,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"MAY_2018",
+         "Bypass_Movistar":7310,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"JUN_2018",
+         "Bypass_Movistar":8908,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"JUL_2018",
+         "Bypass_Movistar":11618,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"AGO_2018",
+         "Bypass_Movistar":17716,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"SEP_2018",
+         "Bypass_Movistar":24624,
+	 "comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      },
+      {
+         "mes":"OCT_2018",
+         "Bypass_Movistar":35000,"comentario":"Implementación de nuevo método de perfilamiento a través del base de datos de ECPPGA Y ECPPCS"
+      }
+   ]
